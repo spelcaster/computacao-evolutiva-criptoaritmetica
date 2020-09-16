@@ -1,2 +1,5 @@
-# computacao-evolutiva-criptoaritmetica
-Resolução de problema de criptoaritmética utilizando Algoritmo Genético
+# Build
+
+```
+g++ -Wall -Wextra -Werror main.cpp -o main
+```
